@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 210 297"
+   height="297mm"
+   width="210mm">
+  <defs
+     id="defs2">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="282.01193"
+       x2="41.989811"
+       y1="264.02026"
+       x1="136.09648"
+       id="linearGradient8162"
+       xlink:href="#linearGradient8160"
+       gradientTransform="matrix(1.4212317,0,0,1.4212316,-43.280415,-262.56792)" />
+    <linearGradient
+       id="linearGradient8160">
+      <stop
+         id="stop8156"
+         offset="0"
+         style="stop-color:#00ff00;stop-opacity:1;" />
+      <stop
+         id="stop8158"
+         offset="1"
+         style="stop-color:#7e8eb9;stop-opacity:0.91973245" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       y2="282.01193"
+       x2="41.989811"
+       y1="264.02026"
+       x1="136.09648"
+       id="linearGradient8184"
+       xlink:href="#linearGradient8160" />
+    <filter
+       height="1.2921426"
+       y="-0.14607131"
+       width="1.0913672"
+       x="-0.045683667"
+       id="filter8152"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur8154"
+         stdDeviation="1.2858209" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <text
+       transform="matrix(1.3494774,0,0,1.4968012,-17.209376,-54.55702)"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.19984436px;line-height:1.25;font-family:'Halogen by Pixel Surplus';-inkscape-font-specification:'Halogen by Pixel Surplus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1.5;filter:url(#filter8152)"
+       x="52.055134"
+       y="133.69418"
+       id="text8118"><tspan
+         id="tspan8116"
+         x="52.055134"
+         y="133.69418"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.19984436px;font-family:'Halogen by Pixel Surplus';-inkscape-font-specification:'Halogen by Pixel Surplus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:#000000;stroke-width:1.5">WINRAN</tspan></text>
+    <text
+       transform="scale(0.94951262,1.0531719)"
+       id="text8114"
+       y="139.71194"
+       x="52.473671"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.39358521px;line-height:1.25;font-family:'Halogen by Pixel Surplus';-inkscape-font-specification:'Halogen by Pixel Surplus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;opacity:1;fill:url(#linearGradient8162);fill-opacity:1;stroke:#000000;stroke-width:0.85983968"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:34.39358521px;font-family:'Halogen by Pixel Surplus';-inkscape-font-specification:'Halogen by Pixel Surplus, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:url(#linearGradient8162);fill-opacity:1;stroke:#000000;stroke-width:0.85983968"
+         y="139.71194"
+         x="52.473671"
+         id="tspan8112">WINRAN</tspan></text>
+  </g>
+</svg>
